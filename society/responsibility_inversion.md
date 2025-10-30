@@ -223,6 +223,13 @@ Some relevant literature on the subject.
 - Self-surveillance (Foucault's panopticon): power becomes internalized; you police yourself.
 - Moral individualism (Weber, Durkheim): Protestant ethic, meritocracy myth—success = virtue, failure = sin.
 
+## To do's and goals
+
+- does the historical analysis table make sense? it's potentially hard to read rn
+- re-comb for correct tone: i want to keep compassionate and analytical tone, but without lapsing into dryness. neither morally judge nor sound overly finger pointing.
+- i liked having specific hashtags or examples for some of the domain examples. Instances of historical events, memes, whatever, are nice to have to concretely ground the theory without also sounding dry or academic.
+- domain examples might need some restructuring. Right now it can feel long. Expanding each section might actually make it more readable rather than a list of lists.
+
 ## Metadata
 
 ```plaintext
