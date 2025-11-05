@@ -4,7 +4,7 @@ I had a thought while making instant ramen today:
 
 Up until today I've thought of the role of programmers in the world changing in the direction of AI replacing us and becoming better than us at writing software. But I realized that it's the role of software itself that will also change.
 
-What's the difference between code and data?
+> What's the difference between code and data?
 
 Let's take an example: a calendar program might include code for handling calendar and birthday logic. It might expose an API or use one to integrate with other software. In this example, data in the program might store birthdays of specific individuals, and code will capture assigning events to days, and generating dates in the future.
 
@@ -14,7 +14,9 @@ If I think back to computing history, we've gone from encoding automata in hardw
 
 But, that's only necessary because scaling automation without a standard in place is difficult in an amorphous world. We impose standards to homogenize reality enough that programs can operate. This is why connectionist AI has been the real breakthrough, as it allows us to bypass the large body of work of treating "close enough" data as the same.
 
-Code is just a cached snapshot of logic that makes concrete the otherwise messier world of information. But if our AI can handle messiness, the distinction between data and code collapses. Knowledge, data and code become various levels of compression of the same information.
+Code is just a cached snapshot of logic that makes concrete the otherwise messier world of information. But if our AI can handle messiness, the distinction between data and code collapses.
+
+> Knowledge, data and code become various levels of compression of the same information.
 
 As such, in this new world, languages and runtimes will emerge that tailor to the needs of audit, efficient logic caching, and behaviour introspection. The aim becomes efficiency and trust verification, not ease of composing.
 
@@ -24,7 +26,9 @@ But if knowledge itself is modelled and operated on predictably and transparentl
 
 This brings us to the question:
 
-> Will we still need programmers to the extent that we have them today? Or will we need experts in their fields to oversee and collaborate with semantic automata on the level information and not code?
+> Do we need programmers?
+
+Will we still need them to the extent that we have today? Or will we need experts in their fields to oversee and collaborate with semantic automata on the level information and not code?
 
 ## Metadata
 
