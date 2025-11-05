@@ -1,4 +1,4 @@
-# On distinction between code and data, and disappearing role of programmers
+# On collapsing distinction between code and data, and disappearing role of programmers
 
 I had a thought while making instant ramen today:
 
