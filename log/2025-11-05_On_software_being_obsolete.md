@@ -26,9 +26,9 @@ But if knowledge itself is modelled and operated on predictably and transparentl
 
 This brings us to the question:
 
-> Do we need programmers?
+> Will we need programmers?
 
-Will we still need them to the extent that we have today? Or will we need experts in their fields to oversee and collaborate with semantic automata on the level information and not code?
+If the frontier is no longer code but information and knowledge itself, does a programmer become the equivalent of a general instruction CPU, with no general instructions left to run or write? Will we instead require experts in their fields that oversee and collaborate with semantic automata on the level knowledge, rather than code?
 
 ## Metadata
 
